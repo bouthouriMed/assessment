@@ -1,0 +1,22 @@
+{
+  "name": "js-numerals",
+  "version": "1.0.0",
+  "description": "number to phrase converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bouthouriMed/assessment.git"
+  },
+  "author": "Bouthouri Med",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bouthouriMed/assessment/issues"
+  },
+  "homepage": "https://github.com/bouthouriMed/assessment#readme",
+  "devDependencies": {
+    "jest": "^23.4.2"
+  }
+}
