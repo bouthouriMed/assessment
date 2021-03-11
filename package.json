@@ -18,5 +18,8 @@
   "homepage": "https://github.com/bouthouriMed/assessment#readme",
   "devDependencies": {
     "jest": "^23.4.2"
+  },
+  "dependencies": {
+    "puppeteer": "^8.0.0"
   }
 }
